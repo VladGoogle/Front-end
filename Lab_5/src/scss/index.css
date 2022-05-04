@@ -1,0 +1,17 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+.logo {
+    width: 128px;
+    height: 128px;
+    background-image: url("../assets/images/logo.png");
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.text-center{
+    text-align: center;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}

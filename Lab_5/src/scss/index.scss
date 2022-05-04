@@ -1,0 +1,17 @@
+@import "~normalize.css";
+@import "fonts.css";
+
+$body-color: #000000;
+body {
+  font-family: 'Roboto', sans-serif;
+  color: $body-color;
+  background: linear-gradient(to right, #EA0037 0%,#B02C4B 30%,#980023 50%, #F53D68 800% , #F56E8D 100%);
+  text-align: center;
+}
+h1{
+  margin-bottom: 50px;
+}
+table {
+  margin: auto;
+}
+
